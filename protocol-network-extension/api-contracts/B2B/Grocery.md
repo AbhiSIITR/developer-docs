@@ -5,3 +5,5 @@
 >[Grocery taxonomy mapping to protocol](https://docs.google.com/spreadsheets/d/11V6g9kDO0f7q7ApXK9yDaS4KWv_y9DFvnmp6dT4QRCE/edit#gid=483182517)
 
 >[API contract extension for B2B Grocery](https://docs.google.com/document/d/1Zg684Akm8cw9SIVpBPkflogoh6Sh-SN1JtAsWjugzbw/edit)
+
+>[Test Case Scenarios B2B MVP](https://docs.google.com/document/d/1ew9a4AzWgwFHcGqRmnv4XT_oRzHC4Qsl/edit)
